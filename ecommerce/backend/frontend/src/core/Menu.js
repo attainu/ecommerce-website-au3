@@ -16,9 +16,8 @@ const Menu = ({ history }) => (
         <div>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <img src="https://www.bacancytechnology.com/blog/wp-content/uploads/2014/07/eCommerce-Logo.png"
-            width="40" height="40" className="d-inline-block align-top" alt="flipkart"/>
-  <a href="/" className="navbar-brand bg-dark" >DangaL</a>
-  {/* <div className="collapse navbar-collapse"> */}
+            width="40" height="40" className="d-inline-block align-top" alt="d"/>
+  <a href="/" className="navbar-brand bg-dark" >E-Shop</a>
   <div className="container">
         <ul className="navbar-nav" style={{}}>
             <li className="nav-item">
@@ -144,6 +143,7 @@ const Menu = ({ history }) => (
             )}
         </ul>
         </div>
+
         </nav>
     </div>
 );
